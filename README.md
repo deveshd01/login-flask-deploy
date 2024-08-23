@@ -1,4 +1,4 @@
-This project is just to understand how to deploy Web Project on HEROKU
+This project is just to understand how to deploy ML Web Project on HEROKU
 
 Deployed on  :  https://login-demo-deploy.herokuapp.com/login
 
